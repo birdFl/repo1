@@ -1,2 +1,4 @@
 b1 branch 
 在master中修改b1
+b1 branch
+在b1中修改b1
